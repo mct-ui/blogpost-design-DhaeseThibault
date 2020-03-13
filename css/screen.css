@@ -241,5 +241,6 @@ a:focus {
 h1,
 h2,
 h3 {
-    color:#000000
+    color:#000000;
+    font-family: "Inter Web", "Helvetica Neue", Helvetica, arial, sans-serif;
 }
